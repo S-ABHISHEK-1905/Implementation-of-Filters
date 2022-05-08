@@ -6,33 +6,28 @@ To implement filters for smoothing and sharpening the images in the spatial doma
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1
-</br>
-</br> 
+### Step 1:
+Import All The Necessary Modules.
+### Step 2:
+Using Averaging Filter Smoothen the given image.
+### Step 3:
+Using the Weighted Averaging Filter Smoothen the given Image.
+### Step 4:
+Using the Gaussian Filter Smoothen the given Image.
+### Step 5:
+Using the Median Filter Smoothen the given Image.
+### Step 6:
+Using the Laplacian Kernel Filter Sharpen the given Image.
+### Step 7:
+Using the Laplacian Operator Filter Sharpen the given Image.
 
-### Step2
-</br>
-</br> 
-
-### Step3
-</br>
-</br> 
-
-### Step4
-</br>
-</br> 
-
-### Step5
-</br>
-</br> 
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   : Sai Darshan G
+### Register Number: 212221240047
 </br>
 
 ### 1. Smoothing Filters
-
 i) Using Averaging Filter
 ```Python
 import cv2
@@ -111,7 +106,7 @@ plt.axis('off')
 ```
 
 ### 2. Sharpening Filters
-i) Using Laplacian Kernal
+i) Using Laplacian Kernel
 ```Python
 import cv2
 import numpy as np
@@ -155,47 +150,35 @@ plt.axis('off')
 
 i) Using Averaging Filter
 </br>
-</br>
-</br>
-</br>
+![inp](1.png)
 </br>
 
 ii) Using Weighted Averaging Filter
 </br>
-</br>
-</br>
-</br>
+![inp](2.png)
 </br>
 
 iii) Using Weighted Averaging Filter
 </br>
-</br>
-</br>
-</br>
+![inp](3.png)
 </br>
 
 iv) Using Median Filter
 </br>
-</br>
-</br>
-</br>
+![inp](4.png)
 </br>
 
 ### 2. Sharpening Filters
 </br>
 
-i) Using Laplacian Kernal
+i) Using Laplacian Kernel
 </br>
-</br>
-</br>
-</br>
+![inp](5.png)
 </br>
 
 ii) Using Laplacian Operator
 </br>
-</br>
-</br>
-</br>
+![inp](6.png)
 </br>
 
 ## Result:
