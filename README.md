@@ -1,4 +1,5 @@
 <h1 align="center"> Implementation of Filters </h1>
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
