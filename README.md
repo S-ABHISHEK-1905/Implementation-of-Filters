@@ -1,5 +1,4 @@
-<h1 align="center"> Implementation of Filters </h1>
-
+# Implementation-of-Filters
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -151,22 +150,22 @@ plt.axis('off')
 
 i) Using Averaging Filter
 </br>
-![inp](1.png)
+![image](https://user-images.githubusercontent.com/66360846/230023042-badc6a72-3103-474c-96e3-e13aca0dca7b.png)
 </br>
 
 ii) Using Weighted Averaging Filter
 </br>
-![inp](2.png)
+![image](https://user-images.githubusercontent.com/66360846/230023113-08fea155-d625-424b-ba50-23fa8e820c6d.png)
 </br>
 
 iii) Using Weighted Averaging Filter
 </br>
-![inp](3.png)
+![image](https://user-images.githubusercontent.com/66360846/230023138-4fd86f8c-6031-4838-8375-6238e580e3de.png)
 </br>
 
 iv) Using Median Filter
 </br>
-![inp](4.png)
+![image](https://user-images.githubusercontent.com/66360846/230023173-b1ba082c-aff8-4eed-9931-4639b3502797.png)
 </br>
 
 ### 2. Sharpening Filters
@@ -174,12 +173,13 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernel
 </br>
-![inp](5.png)
+![image](https://user-images.githubusercontent.com/66360846/230023408-5dfdeba5-056b-4bda-a3a9-10116023cab3.png)
 </br>
 
 ii) Using Laplacian Operator
 </br>
-![inp](6.png)
+
+
 </br>
 
 ## Result:
