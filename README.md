@@ -23,8 +23,8 @@ Using the Laplacian Operator Filter Sharpen the given Image.
 
 
 ## Program:
-### Developed By   : Sai Darshan G
-### Register Number: 212221240047
+### Developed By   : S.ABHISHEK
+### Register Number: 212221230002
 </br>
 
 ### 1. Smoothing Filters
@@ -178,8 +178,7 @@ i) Using Laplacian Kernel
 
 ii) Using Laplacian Operator
 </br>
-
-
+![image](https://user-images.githubusercontent.com/66360846/230025391-92c01730-dd16-4674-bcda-ce77cc0c84a8.png)
 </br>
 
 ## Result:
